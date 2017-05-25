@@ -9,3 +9,7 @@
 git init
 git add readmt.txt
 git commit -m
+
+新增的内容
+
+再次添加的内容
